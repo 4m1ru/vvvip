@@ -1,9 +1,9 @@
-*DOWNLOAD TERMUX*
+# DOWNLOAD TERMUX
 1. BUKA PLAY STORE
 2. KETIK "TERMUX" DI PENCARIAN
 3. DOWNLOAD TERMUX
 
-*INSTALASI/PEMASANGAN/SETUP*
+# INSTALASI/PEMASANGAN/SETUP
 1. BUKA TERMUX
 2. KETIK "pkg install python" di termux
 3. Enter
@@ -22,18 +22,18 @@
 16. Ketik "pip install googletrans" di termux
 17. Enter
 
-*PEMASANGAN SCRIPT*
+# PEMASANGAN SCRIPT
 1. KETIK "git clone https://github.com/diverglovsky/vvvip/" di termux
 2. Enter
 
-*MEMAKAI SCRIPT TOOLS 26*
+# MEMAKAI SCRIPT TOOLS 26
 1. BUKA TERMUX
 2. KETIK "cd vvvip"
 3. Enter
 4. Ketik "python vvvip.py"
 5. Enter
 
-*MEMAKAI SCRIPT SPAM*
+# MEMAKAI SCRIPT SPAM
 1. BUKA TERMUX
 2. KETIK "cd vvvip"
 3. Enter
